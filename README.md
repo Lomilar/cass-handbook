@@ -1,3 +1,16 @@
-# My Awesome Book
+# CaSS Handbook
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+The CaSS Handbook is an exhaustive set of conceptual and code examples for every feature and capability that CaSS has.
+
+It is organized into 5 sections:
+
+[Competencies and Frameworks](//competenciesAndFrameworks.md)
+
+Assertions and Profiles
+
+Resources and Alignments
+
+Scalability and Performance
+
+Compatibility and Interoperability
+
