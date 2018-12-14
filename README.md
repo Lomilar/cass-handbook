@@ -4,7 +4,7 @@ The CaSS Handbook is an exhaustive set of conceptual and code examples for every
 
 It is organized into 5 sections:
 
-[Competencies and Frameworks](//competenciesAndFrameworks.md)
+[Competencies and Frameworks](/competenciesAndFrameworks.md)
 
 Assertions and Profiles
 
